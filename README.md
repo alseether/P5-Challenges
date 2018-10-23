@@ -19,8 +19,20 @@
 
 [![demo][3]][3]
 
+### SnowFall
 
+- [Javascript code](https://github.com/alseether/P5-Challenges/tree/master/4%20-%20Snow%20Fall)
+
+[![demo][4]][4]
+
+### Fireworks
+
+- [Javascript code](https://github.com/alseether/P5-Challenges/tree/master/5%20-%20Fireworks)
+
+[![demo][5]][5]
 
 [1]: https://raw.githubusercontent.com/alseether/P5-Challenges/master/1%20-%20Steering%20Evolutive%20Behaviors/steering.gif
 [2]: https://raw.githubusercontent.com/alseether/P5-Challenges/master/2%20-%20Fire%20spread/firespread.gif
 [3]: https://raw.githubusercontent.com/alseether/P5-Challenges/master/3%20-%20QuadTree/quadtree.gif
+[4]: https://raw.githubusercontent.com/alseether/P5-Challenges/master/4%20-%20Snow%20Fall/snowfall.gif
+[5]: https://raw.githubusercontent.com/alseether/P5-Challenges/master/5%20-%20Fireworks/fireworks.gif
