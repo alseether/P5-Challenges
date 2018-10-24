@@ -43,6 +43,12 @@
 
 [![demo][7]][7]
 
+### Terrain Generation
+
+- [Javascript code](https://github.com/alseether/P5-Challenges/tree/master/8%20-%20Terrain%20Generation)
+
+[![demo][8]][8]
+
 [1]: https://raw.githubusercontent.com/alseether/P5-Challenges/master/1%20-%20Steering%20Evolutive%20Behaviors/steering.gif
 [2]: https://raw.githubusercontent.com/alseether/P5-Challenges/master/2%20-%20Fire%20spread/firespread.gif
 [3]: https://raw.githubusercontent.com/alseether/P5-Challenges/master/3%20-%20QuadTree/quadtree.gif
@@ -50,4 +56,4 @@
 [5]: https://raw.githubusercontent.com/alseether/P5-Challenges/master/5%20-%20Fireworks/fireworks.gif
 [6]: https://raw.githubusercontent.com/alseether/P5-Challenges/master/6%20-%20Voronoi%20Diagram%20Animation/voronoi.gif
 [7]: https://raw.githubusercontent.com/alseether/P5-Challenges/master/7%20-%20Fractal%20Trees/fractaltrees.gif
-
+[8]: https://raw.githubusercontent.com/alseether/P5-Challenges/master/8%20-%20Terrain%20Generation/terrain.gif
