@@ -49,6 +49,12 @@
 
 [![demo][8]][8]
 
+### Diamond-Square Terrain
+
+- [Javascript code](https://github.com/alseether/P5-Challenges/tree/master/9%20-%20Diamond-Square%20Terrain)
+
+[![demo][9]][9]
+
 [1]: https://raw.githubusercontent.com/alseether/P5-Challenges/master/1%20-%20Steering%20Evolutive%20Behaviors/steering.gif
 [2]: https://raw.githubusercontent.com/alseether/P5-Challenges/master/2%20-%20Fire%20spread/firespread.gif
 [3]: https://raw.githubusercontent.com/alseether/P5-Challenges/master/3%20-%20QuadTree/quadtree.gif
@@ -57,3 +63,5 @@
 [6]: https://raw.githubusercontent.com/alseether/P5-Challenges/master/6%20-%20Voronoi%20Diagram%20Animation/voronoi.gif
 [7]: https://raw.githubusercontent.com/alseether/P5-Challenges/master/7%20-%20Fractal%20Trees/fractaltrees.gif
 [8]: https://raw.githubusercontent.com/alseether/P5-Challenges/master/8%20-%20Terrain%20Generation/terrain.gif
+[9]: https://raw.githubusercontent.com/alseether/P5-Challenges/master/9%20-%20Diamond-Square%20Terrain/diamondSquare.gif
+
